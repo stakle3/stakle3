@@ -2,7 +2,7 @@ h1{
 	color: purple;
 	text-align: center;
 	font-weight: bold;
-	
+
 
 }
 .part1 {
@@ -19,4 +19,8 @@ body{
 	color: #AF0050;
 	font-size: 20px;
 
+}
+
+.eikona {
+	width: 100%;
 }
