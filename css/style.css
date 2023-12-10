@@ -1,4 +1,22 @@
 h1{
 	color: purple;
 	text-align: center;
+	font-weight: bold;
+	
+
+}
+.part1 {
+	color: #320356;
+	font-size: 25px;
+	font-weight: bold;
+
+}
+body{
+	background-color: #CDBFD5;
+}
+
+.part2{
+	color: #AF0050;
+	font-size: 20px;
+
 }
